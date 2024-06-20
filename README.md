@@ -121,5 +121,22 @@ Year vs Suicide per 100k
   f. Generation X mostly contains 25-34 years age group.`
 
 
+  ### Prediction Result
+
+  #### Accuracy
+
+  ![image](https://github.com/arghyadeep97/Suicide-Rate-Prediction/assets/70284387/317ea756-8a65-4514-b027-65ba67398505)
+
+  5 fold Cross-Validation Score
+
+  #### MSE
+
+  ![image](https://github.com/arghyadeep97/Suicide-Rate-Prediction/assets/70284387/1a57f6a9-6f95-4747-a746-af328e9246f6)
+
+  Mean Sqared Error
+
+
+
+
 
 
